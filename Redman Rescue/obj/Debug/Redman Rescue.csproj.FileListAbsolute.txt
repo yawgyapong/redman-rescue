@@ -1,0 +1,30 @@
+C:\Users\yawgy\source\repos\Redman Rescue\Redman Rescue\obj\Debug\Redman Rescue.csprojAssemblyReference.cache
+C:\Users\yawgy\source\repos\Redman Rescue\Redman Rescue\obj\Debug\MainWindow.g.cs
+C:\Users\yawgy\source\repos\Redman Rescue\Redman Rescue\obj\Debug\App.g.cs
+C:\Users\yawgy\source\repos\Redman Rescue\Redman Rescue\obj\Debug\Redman Rescue_MarkupCompile.cache
+C:\Users\yawgy\source\repos\Redman Rescue\Redman Rescue\obj\Debug\Redman Rescue_MarkupCompile.lref
+C:\Users\yawgy\source\repos\Redman Rescue\Redman Rescue\bin\Debug\Redman Rescue.exe.config
+C:\Users\yawgy\source\repos\Redman Rescue\Redman Rescue\bin\Debug\Redman Rescue.exe
+C:\Users\yawgy\source\repos\Redman Rescue\Redman Rescue\bin\Debug\Redman Rescue.pdb
+C:\Users\yawgy\source\repos\Redman Rescue\Redman Rescue\obj\Debug\MainWindow.baml
+C:\Users\yawgy\source\repos\Redman Rescue\Redman Rescue\obj\Debug\Redman Rescue.g.resources
+C:\Users\yawgy\source\repos\Redman Rescue\Redman Rescue\obj\Debug\Redman_Rescue.Properties.Resources.resources
+C:\Users\yawgy\source\repos\Redman Rescue\Redman Rescue\obj\Debug\Redman Rescue.csproj.GenerateResource.cache
+C:\Users\yawgy\source\repos\Redman Rescue\Redman Rescue\obj\Debug\Redman Rescue.csproj.CoreCompileInputs.cache
+C:\Users\yawgy\source\repos\Redman Rescue\Redman Rescue\obj\Debug\Redman Rescue.exe
+C:\Users\yawgy\source\repos\Redman Rescue\Redman Rescue\obj\Debug\Redman Rescue.pdb
+C:\Users\yawgy\source\repos\_Redman Rescue\Redman Rescue\bin\Debug\Redman Rescue.exe.config
+C:\Users\yawgy\source\repos\_Redman Rescue\Redman Rescue\bin\Debug\Redman Rescue.exe
+C:\Users\yawgy\source\repos\_Redman Rescue\Redman Rescue\bin\Debug\Redman Rescue.pdb
+C:\Users\yawgy\source\repos\_Redman Rescue\Redman Rescue\obj\Debug\Redman Rescue.csprojAssemblyReference.cache
+C:\Users\yawgy\source\repos\_Redman Rescue\Redman Rescue\obj\Debug\MainWindow.g.cs
+C:\Users\yawgy\source\repos\_Redman Rescue\Redman Rescue\obj\Debug\App.g.cs
+C:\Users\yawgy\source\repos\_Redman Rescue\Redman Rescue\obj\Debug\Redman Rescue_MarkupCompile.cache
+C:\Users\yawgy\source\repos\_Redman Rescue\Redman Rescue\obj\Debug\Redman Rescue_MarkupCompile.lref
+C:\Users\yawgy\source\repos\_Redman Rescue\Redman Rescue\obj\Debug\MainWindow.baml
+C:\Users\yawgy\source\repos\_Redman Rescue\Redman Rescue\obj\Debug\Redman Rescue.g.resources
+C:\Users\yawgy\source\repos\_Redman Rescue\Redman Rescue\obj\Debug\Redman_Rescue.Properties.Resources.resources
+C:\Users\yawgy\source\repos\_Redman Rescue\Redman Rescue\obj\Debug\Redman Rescue.csproj.GenerateResource.cache
+C:\Users\yawgy\source\repos\_Redman Rescue\Redman Rescue\obj\Debug\Redman Rescue.csproj.CoreCompileInputs.cache
+C:\Users\yawgy\source\repos\_Redman Rescue\Redman Rescue\obj\Debug\Redman Rescue.exe
+C:\Users\yawgy\source\repos\_Redman Rescue\Redman Rescue\obj\Debug\Redman Rescue.pdb
