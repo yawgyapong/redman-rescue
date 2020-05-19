@@ -42,7 +42,7 @@ Use Visual Studio Test Explorer to run Unit tests
 
 * The number of aliens increases as the game goes on to increase the difficulty
 
-# Game Over
+### Game Over
 * The game ends when you drag the red figure outside (above or below) the play area.
 
 * The game ends when you drag the red figure against one of the aliens.
