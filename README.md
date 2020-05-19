@@ -8,7 +8,7 @@ You can open Redman Rescue.exe to directly run this program
 
 ### Prerequisites
 
-*Windows 2003 and above. Use Windows 2008 and above for better gameplay
+**Windows 2003 and above. Use Windows 2008 and above for better gameplay
 *No additional software required to run this application
 *No audio device is required 
 *Minimum screen resolution of 960x720 is required
