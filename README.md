@@ -34,13 +34,13 @@ Use Visual Studio Test Explorer to run Unit tests
 
 * When the game is launched, click on the Start Button to play.
 
-*Once the game starts, the progress bar will increase every 0.1 seconds.
+* Once the game starts, the progress bar will increase every 0.1 seconds.
 (You can change this in the source code, depending on the level of difficulty you want).
 
-*The number of aliens increases every two seconds
+* The number of aliens increases every two seconds
 (This can also be changed in the source code depending on your preference).
 
-*The number of aliens increases as the game goes on to increase the difficulty
+* The number of aliens increases as the game goes on to increase the difficulty
 
 
 ## Built With
