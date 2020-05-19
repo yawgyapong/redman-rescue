@@ -54,7 +54,7 @@ Use Visual Studio Test Explorer to run Unit tests
 
 
 ## Built With
-
+* Microsoft Visual Studio 2017
 * XAML  - Used to design the UI
 * C# and .Net - Used to control XAML objects
 
