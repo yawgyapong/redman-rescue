@@ -32,7 +32,7 @@ Use Visual Studio Test Explorer to run Unit tests
 
 * The game mainly consists of aliens, Redman, a light portal and a progress bar on the starting screen.
 
-* There are also two rectangular black areas below and above the game play area.
+* There are also two black rectangular areas above and below the game play area.
 
 * When the game is launched, click on the Start Button to play.
 
