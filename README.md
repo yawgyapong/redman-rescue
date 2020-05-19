@@ -1,6 +1,6 @@
 # Project Description
 
-Simple game where you have to drag the red figure into a portal to save him from aliens.
+Simple game where you have to drag a red figure into a portal to save him from aliens.
 
 It is inspired by ‘Save the Humans’ game from Head First C# textbook.
 
