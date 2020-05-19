@@ -22,12 +22,6 @@ Minimum screen resolution of 960x720 is required
 Use Visual Studio Test Explorer to run Unit tests
 
 
-### And coding style tests
-
-Explain what these tests test and why
-
-
-
 ## Instructions
 
 The aim of the game is to rescue Redman from aliens by dragging him to the light portal successfully.
